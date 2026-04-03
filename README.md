@@ -4,7 +4,7 @@
 Цей проект створено для практичного завдання з вивчення React урок 38. Мета проекту — створити та використати функціональні компоненти (`Button` та `Input`), передавати їм `props` (властивості) та обробляти події користувача.
 
 ## Демо-версія
-https://home-work-fawn-mu.vercel.app/](https://home-work-fawn-mu.vercel.app/
+https://home-work-fawn-mu.vercel.app/](https://home-work-fawn-mu.vercel.app/)
 
 ## Інструкції зі встановлення та запуску
 
