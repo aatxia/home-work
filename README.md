@@ -13,3 +13,9 @@
 1. Клонуйте репозиторій:
 ```bash
 git clone https://github.com/aatxia/home-work
+
+cd my-react-app
+
+npm install
+
+npm run dev
